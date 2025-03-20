@@ -1,0 +1,43 @@
+.app-download {
+  padding: 150px 0;
+  text-align: center;
+}
+
+.app-download-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  gap: max(2vw, 10px);
+  flex-wrap: wrap;
+}
+
+.play-store,
+.app-store {
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  padding-right: 30px;
+  border-radius: 10px;
+  background-color: rgb(0, 0, 0);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.play-store:hover,
+.app-store:hover {
+  transform: scale(1.1);
+}
+.get-it-on {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  color: rgb(255, 255, 255);
+}
+
+.app-store img {
+  color: #000;
+}

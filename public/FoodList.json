@@ -1,0 +1,708 @@
+[
+  {
+    "id": "1",
+    "name": "Hydrabad chicken dum biriyani",
+    "img": "/src/assets/Biriyani/hydrabad_chicken_dum_biriyani.jpg",
+    "price": "180",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different ",
+    "category": "Biriyani"
+  },
+  {
+    "id": "2",
+    "name": "Hydrabad Mutton dum biriyani",
+    "img": "/src/assets/Biriyani/hydrabad_mutton_dum_biriyani.jpg",
+    "price": "320",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Biriyani"
+  },
+  {
+    "id": "3",
+    "name": "Creamy White Pasta non veg",
+    "img": "/src/assets/Pasta/white_pasta_non_veg.jpg",
+    "price": "120",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Pasta"
+  },
+  {
+    "id": "4",
+    "name": "Creamy White Pasta veg",
+    "img": "/src/assets/Pasta/white_pasta_veg.jpeg",
+    "price": "120",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Pasta"
+  },
+  {
+    "id": "5",
+    "name": "Prawn Biriyani",
+    "img": "/src/assets/Biriyani/prawn_biriyani.jpg",
+    "price": "220",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Biriyani"
+  },
+  {
+    "id": "6",
+    "name": "Egg Biriyani",
+    "img": "/src/assets/Biriyani/egg_biriyani.webp",
+    "price": "120",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Biriyani"
+  },
+  {
+    "id": "7",
+    "name": "Kaada Biriyani",
+    "img": "/src/assets/Biriyani/kaada_biriyani.jpeg",
+    "price": "140",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Biriyani"
+  },
+  {
+    "id": "8",
+    "name": "Kuska",
+    "img": "/src/assets/Biriyani/kuska.jpg",
+    "price": "100",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Biriyani"
+  },
+  {
+    "id": "9",
+    "name": "Spicy Red Pasta Non Veg",
+    "img": "/src/assets/Pasta/spicy-chicken-pasta-non-veg.jpg",
+    "price": "130",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Pasta"
+  },
+  {
+    "id": "10",
+    "name": "Spicy Red Pasta Veg",
+    "img": "/src/assets/Pasta/Spicy_Red_Pasta_Veg.jpg",
+    "price": "100",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Pasta"
+  },
+  {
+    "id": "11",
+    "name": "Butterscotch Sundae",
+    "img": "/src/assets/IceCream/butterscotch.jpeg",
+    "price": "80",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Ice Creams"
+  },
+  {
+    "id": "12",
+    "name": "Chocolate Sundae",
+    "img": "/src/assets/IceCream/Chocolate-sundae.png",
+    "price": "80",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Ice Creams"
+  },
+  {
+    "id": "13",
+    "name": "Hot Fudge Sundae",
+    "img": "/src/assets/IceCream/Hot-Fudge-Sundae.jpg",
+    "price": "100",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Ice Creams"
+  },
+  {
+    "id": "14",
+    "name": "Mango Sundae",
+    "img": "/src/assets/IceCream/mango.jpg",
+    "price": "110",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Ice Creams"
+  },
+  {
+    "id": "15",
+    "name": "Nuttychrunch Ice-cream",
+    "img": "/src/assets/IceCream/nuttycrunch_ice.jpg",
+    "price": "110",
+    "description": "Food provides essential nutritional for overall health and well-begins with a variety of different",
+    "category": "Ice Creams"
+  },
+  {
+    "id": "16",
+    "name": "Chicken Chow Mein",
+    "img": "/src/assets/Noodles/chicken-chow-mein.jpeg",
+    "price": "130",
+    "description": "Stir-fried noodles with chicken and vegetables.",
+    "category": "Noodles"
+  },
+  {
+    "id": "17",
+    "name": "Shrimp Chow Mein",
+    "img": "/src/assets/Noodles/Shrimp-Chow-Mein.jpg",
+    "price": "150",
+    "description": "Stir-fried noodles with shrimp and vegetables.",
+    "category": "Noodles"
+  },
+  {
+    "id": "18",
+    "name": "Beef Chow Mein",
+    "img": "/src/assets/Noodles/beef-chow-mein.jpg",
+    "price": "160",
+    "description": "Stir-fried noodles with beef and vegetables.",
+    "category": "Noodles"
+  },
+  {
+    "id": "19",
+    "name": "Tofu Chow Mein",
+    "img": "/src/assets/Noodles/Tofu Chow Mein.jpg",
+    "price": "120",
+    "description": "Stir-fried noodles with tofu and vegetables.",
+    "category": "Noodles"
+  },
+  {
+    "id": "20",
+    "name": "Vegetable Biryani",
+    "img": "/src/assets/Pure veg/Vegetable Biryani.jpg",
+    "price": "110",
+    "description": "Aromatic basmati rice cooked with mixed vegetables and spices.",
+    "category": "Pure Veg"
+  },
+  {
+    "id": "21",
+    "name": "Paneer Tikka",
+    "img": "/src/assets/Pure veg/Paneer Tikka.jpeg",
+    "price": "140",
+    "description": "Grilled paneer marinated in spices and served with mint chutney.",
+    "category": "Pure Veg"
+  },
+  {
+    "id": "22",
+    "name": "Veg Meals",
+    "img": "/src/assets/Pure veg/Veg Meals.webp",
+    "price": "140",
+    "description": "Grilled paneer marinated in spices and served with mint chutney.",
+    "category": "Pure Veg"
+  },
+  {
+    "id": "23",
+    "name": "Veg Club Sandwich",
+    "img": "/src/assets/Sandwich/Veg Club Sandwich.jpg",
+    "price": "80",
+    "description": "Three-layer sandwich with vegetables and mayonnaise.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "24",
+    "name": "Grilled Cheese Sandwich",
+    "img": "/src/assets/Sandwich/Grilled Cheese Sandwich.jpg",
+    "price": "60",
+    "description": "Toasted sandwich with melted cheese.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "25",
+    "name": "Chicken Sandwich",
+    "img": "/src/assets/Sandwich/Chicken Sandwich.jpg",
+    "price": "120",
+    "description": "Grilled chicken with lettuce and mayo.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "26",
+    "name": "Tuna Salad Sandwich",
+    "img": "/src/assets/Sandwich/Tuna Salad Sandwich.jpg",
+    "price": "90",
+    "description": "Tuna mixed with mayonnaise and vegetables.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "27",
+    "name": "BLT Sandwich",
+    "img": "/src/assets/Sandwich/BLT Sandwich.jpg",
+    "price": "100",
+    "description": "Bacon, lettuce, and tomato on toasted bread.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "28",
+    "name": "Egg Salad Sandwich",
+    "img": "/src/assets/Sandwich/Egg Salad Sandwich.jpeg",
+    "price": "70",
+    "description": "Creamy egg salad with lettuce.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "29",
+    "name": "Caprese Sandwich",
+    "img": "/src/assets/Sandwich/Caprese Sandwich.jpg",
+    "price": "85",
+    "description": "Fresh mozzarella, tomatoes, and basil.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "30",
+    "name": "Falafel Sandwich",
+    "img": "/src/assets/Sandwich/Falafel Sandwich.jpg",
+    "price": "75",
+    "description": "Crispy falafel with tahini sauce and veggies.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "31",
+    "name": "Pesto Chicken Sandwich",
+    "img": "/src/assets/Sandwich/Pesto Chicken Sandwich.jpg",
+    "price": "110",
+    "description": "Grilled chicken with pesto sauce and veggies.",
+    "category": "Sandwich"
+  },
+  {
+    "id": "32",
+    "name": "Veggie Delight Sandwich",
+    "img": "/src/assets/Sandwich/Veggie Delight Sandwich.png",
+    "price": "80",
+    "description": "A mix of fresh vegetables with hummus.",
+    "category": "Sandwich"
+  },
+
+  {
+    "id": "33",
+    "name": "Classic Cheeseburger",
+    "img": "/src/assets/Burger/Classic Cheeseburger.webp",
+    "price": "150",
+    "description": "Juicy beef patty with melted cheese, lettuce, and tomato.",
+    "category": "Burger"
+  },
+  {
+    "id": "34",
+    "name": "Bacon Burger",
+    "img": "/src/assets/Burger/Bacon Burger.jpeg",
+    "price": "180",
+    "description": "Beef patty topped with crispy bacon and cheddar cheese.",
+    "category": "Burger"
+  },
+  {
+    "id": "35",
+    "name": "Veggie Burger",
+    "img": "/src/assets/Burger/Veggie Burger.jpg",
+    "price": "120",
+    "description": "A delicious plant-based patty with fresh veggies.",
+    "category": "Burger"
+  },
+  {
+    "id": "36",
+    "name": "BBQ Chicken Burger",
+    "img": "/src/assets/Burger/BBQ Chicken Burger.jpg",
+    "price": "160",
+    "description": "Grilled chicken breast with BBQ sauce and coleslaw.",
+    "category": "Burger"
+  },
+  {
+    "id": "37",
+    "name": "Mushroom Swiss Burger",
+    "img": "/src/assets/Burger/Mushroom Swiss Burger.jpg",
+    "price": "170",
+    "description": "Beef patty topped with sautéed mushrooms and Swiss cheese.",
+    "category": "Burger"
+  },
+  {
+    "id": "38",
+    "name": "Spicy Jalapeño Burger",
+    "img": "/src/assets/Burger/Spicy Jalapeño Burger.jpg",
+    "price": "160",
+    "description": "Beef patty with jalapeños, pepper jack cheese, and spicy mayo.",
+    "category": "Burger"
+  },
+  {
+    "id": "39",
+    "name": "Fish Burger",
+    "img": "/src/assets/Burger/Fish Burger.jpg",
+    "price": "140",
+    "description": "Crispy fish fillet with tartar sauce and lettuce.",
+    "category": "Burger"
+  },
+  {
+    "id": "40",
+    "name": "Double Cheeseburger",
+    "img": "/src/assets/Burger/Double Cheeseburger.jpg",
+    "price": "220",
+    "description": "Two beef patties with double cheese and all the fixings.",
+    "category": "Burger"
+  },
+  {
+    "id": "41",
+    "name": "Buffalo Chicken Burger",
+    "img": "/src/assets/Burger/Buffalo Chicken Burger.jpg",
+    "price": "170",
+    "description": "Spicy buffalo chicken patty with blue cheese dressing.",
+    "category": "Burger"
+  },
+  {
+    "id": "42",
+    "name": "Caprese Burger",
+    "img": "/src/assets/Burger/Caprese Burger.jpg",
+    "price": "180",
+    "description": "Beef patty with fresh mozzarella, tomatoes, and basil pesto.",
+    "category": "Burger"
+  },
+  {
+    "id": "43",
+    "name": "Chocolate Shake",
+    "img": "/src/assets/shakes/Chocolate Shake.jpg",
+    "price": "100",
+    "description": "Rich and creamy chocolate shake topped with whipped cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "44",
+    "name": "Vanilla Shake",
+    "img": "/src/assets/shakes/Vanilla Shake.jpg",
+    "price": "90",
+    "description": "Classic vanilla shake made with real vanilla beans.",
+    "category": "Shake"
+  },
+  {
+    "id": "45",
+    "name": "Strawberry Shake",
+    "img": "/src/assets/shakes/Strawberry Shake.jpg",
+    "price": "95",
+    "description": "Fresh strawberry shake blended with creamy ice cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "46",
+    "name": "Mango Shake",
+    "img": "/src/assets/shakes/Mango Shake.jpg",
+    "price": "110",
+    "description": "Refreshing mango shake made with ripe mangoes.",
+    "category": "Shake"
+  },
+  {
+    "id": "47",
+    "name": "Oreo Shake",
+    "img": "/src/assets/shakes/Oreo Shake.jpg",
+    "price": "120",
+    "description": "Delicious shake blended with Oreo cookies and topped with cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "48",
+    "name": "Banana Shake",
+    "img": "/src/assets/shakes/Banana Shake.jpg",
+    "price": "100",
+    "description": "Creamy banana shake made with fresh bananas.",
+    "category": "Shake"
+  },
+  {
+    "id": "49",
+    "name": "Peanut Butter Shake",
+    "img": "/src/assets/shakes/Peanut Butter Shake.jpg",
+    "price": "130",
+    "description": "Rich shake made with creamy peanut butter and chocolate.",
+    "category": "Shake"
+  },
+  {
+    "id": "50",
+    "name": "Mint Chocolate Chip Shake",
+    "img": "/src/assets/shakes/Mint Chocolate Chip Shake.jpg",
+    "price": "120",
+    "description": "Refreshing mint shake with chocolate chips.",
+    "category": "Shake"
+  },
+  {
+    "id": "51",
+    "name": "Coffee Shake",
+    "img": "/src/assets/shakes/Coffee Shake.jpeg",
+    "price": "110",
+    "description": "Rich coffee shake blended with ice cream and topped with cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "52",
+    "name": "Caramel Shake",
+    "img": "/src/assets/shakes/Caramel Shake.jpg",
+    "price": "115",
+    "description": "Creamy shake drizzled with caramel sauce.",
+    "category": "Shake"
+  },
+  {
+    "id": "53",
+    "name": "Cookies and Cream Shake",
+    "img": "/src/assets/shakes/Cookies and Cream Shake.jpg",
+    "price": "125",
+    "description": "Delicious shake made with cookies and cream ice cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "54",
+    "name": "Pineapple Shake",
+    "img": "/src/assets/shakes/Pineapple Shake.jpg",
+    "price": "105",
+    "description": "Tropical pineapple shake made with fresh pineapples.",
+    "category": "Shake"
+  },
+  {
+    "id": "55",
+    "name": "Blueberry Shake",
+    "img": "/src/assets/shakes/Blueberry Shake.jpg",
+    "price": "115",
+    "description": "Fresh blueberry shake blended with creamy ice cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "56",
+    "name": "Raspberry Shake",
+    "img": "/src/assets/shakes/Raspberry Shake.jpg",
+    "price": "110",
+    "description": "Tangy raspberry shake made with fresh raspberries.",
+    "category": "Shake"
+  },
+  {
+    "id": "57",
+    "name": "Chocolate Mint Shake",
+    "img": "/src/assets/shakes/Chocolate Mint Shake.webp",
+    "price": "120",
+    "description": "Chocolate shake with a hint of mint flavor.",
+    "category": "Shake"
+  },
+  {
+    "id": "58",
+    "name": "Almond Joy Shake",
+    "img": "/src/assets/shakes/Almond Joy Shake.jpeg",
+    "price": "130",
+    "description": "A delightful blend of chocolate, coconut, and almond flavors.",
+    "category": "Shake"
+  },
+  {
+    "id": "59",
+    "name": "Nutella Shake",
+    "img": "/src/assets/shakes/Nutella Shake.jpg",
+    "price": "140",
+    "description": "Creamy shake made with Nutella and topped with whipped cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "60",
+    "name": "Matcha Green Tea Shake",
+    "img": "/src/assets/shakes/Matcha Green Tea Shake.webp",
+    "price": "135",
+    "description": "Refreshing shake made with matcha green tea and vanilla ice cream.",
+    "category": "Shake"
+  },
+  {
+    "id": "61",
+    "name": "Tropical Fruit Shake",
+    "img": "/src/assets/shakes/Tropical Fruit Shake.jpg",
+    "price": "125",
+    "description": "A blend of tropical fruits like mango, pineapple, and banana.",
+    "category": "Shake"
+  },
+  {
+    "id": "62",
+    "name": "S'mores Shake",
+    "img": "/src/assets/shakes/S'mores Shake.jpeg",
+    "price": "150",
+    "description": "Chocolate and marshmallow shake with graham cracker crumbs.",
+    "category": "Shake"
+  },
+  {
+    "id": "63",
+    "name": "Margherita Pizza",
+    "img": "/src/assets/pizzas/Margherita Pizza.webp",
+    "price": "250",
+    "description": "Classic pizza topped with fresh mozzarella, tomatoes, and basil.",
+    "category": "Pizza"
+  },
+  {
+    "id": "64",
+    "name": "Pepperoni Pizza",
+    "img": "/src/assets/pizzas/Pepperoni Pizza.jpeg",
+    "price": "300",
+    "description": "Delicious pizza topped with pepperoni slices and mozzarella cheese.",
+    "category": "Pizza"
+  },
+  {
+    "id": "65",
+    "name": "BBQ Chicken Pizza",
+    "img": "/src/assets/pizzas/BBQ Chicken Pizza.jpg",
+    "price": "320",
+    "description": "Grilled chicken with BBQ sauce, red onions, and cilantro.",
+    "category": "Pizza"
+  },
+  {
+    "id": "66",
+    "name": "Veggie Supreme Pizza",
+    "img": "/src/assets/pizzas/Veggie Supreme Pizza.jpeg",
+    "price": "280",
+    "description": "Loaded with bell peppers, onions, mushrooms, and olives.",
+    "category": "Pizza"
+  },
+  {
+    "id": "67",
+    "name": "Hawaiian Pizza",
+    "img": "/src/assets/pizzas/Hawaiian Pizza.jpg",
+    "price": "290",
+    "description": "Topped with ham, pineapple, and mozzarella cheese.",
+    "category": "Pizza"
+  },
+  {
+    "id": "68",
+    "name": "Meat Lovers Pizza",
+    "img": "/src/assets/pizzas/Meat Lovers Pizza.jpeg",
+    "price": "350",
+    "description": "A hearty pizza with pepperoni, sausage, bacon, and ham.",
+    "category": "Pizza"
+  },
+  {
+    "id": "69",
+    "name": "Four Cheese Pizza",
+    "img": "/src/assets/pizzas/Four Cheese Pizza.jpg",
+    "price": "330",
+    "description": "A blend of mozzarella, cheddar, parmesan, and gorgonzola.",
+    "category": "Pizza"
+  },
+  {
+    "id": "70",
+    "name": "Buffalo Chicken Pizza",
+    "img": "/src/assets/pizzas/Buffalo Chicken Pizza.jpg",
+    "price": "310",
+    "description": "Spicy buffalo chicken with ranch dressing and mozzarella.",
+    "category": "Pizza"
+  },
+  {
+    "id": "71",
+    "name": "Pesto Veggie Pizza",
+    "img": "/src/assets/pizzas/Pesto Veggie Pizza.jpeg",
+    "price": "270",
+    "description": "Pesto sauce topped with fresh vegetables and mozzarella.",
+    "category": "Pizza"
+  },
+  {
+    "id": "72",
+    "name": "Seafood Pizza",
+    "img": "/src/assets/pizzas/Seafood Pizza.png",
+    "price": "360",
+    "description": "Topped with shrimp, calamari, and a blend of seafood.",
+    "category": "Pizza"
+  },
+
+  {
+    "id": "73",
+    "name": "Espresso",
+    "img": "/src/assets/coffee/Espresso.jpg",
+    "price": "80",
+    "description": "Rich and bold shot of espresso, perfect for a quick boost.",
+    "category": "Coffee"
+  },
+  {
+    "id": "74",
+    "name": "Americano",
+    "img": "/src/assets/coffee/Americano.webp",
+    "price": "90",
+    "description": "Espresso diluted with hot water for a smooth flavor.",
+    "category": "Coffee"
+  },
+  {
+    "id": "75",
+    "name": "Cappuccino",
+    "img": "/src/assets/coffee/Cappuccino.webp",
+    "price": "120",
+    "description": "Espresso topped with steamed milk and frothy foam.",
+    "category": "Coffee"
+  },
+  {
+    "id": "76",
+    "name": "Latte",
+    "img": "/src/assets/coffee/Latte.jpg",
+    "price": "110",
+    "description": "Creamy espresso with steamed milk and a light layer of foam.",
+    "category": "Coffee"
+  },
+  {
+    "id": "77",
+    "name": "Mocha",
+    "img": "/src/assets/coffee/Mocha.jpg",
+    "price": "130",
+    "description": "Rich chocolate flavor combined with espresso and steamed milk.",
+    "category": "Coffee"
+  },
+  {
+    "id": "78",
+    "name": "Flat White",
+    "img": "/src/assets/coffee/Flat White.jpg",
+    "price": "125",
+    "description": "Espresso with velvety microfoam milk for a smooth finish.",
+    "category": "Coffee"
+  },
+  {
+    "id": "79",
+    "name": "Macchiato",
+    "img": "/src/assets/coffee/Macchiato.webp",
+    "price": "100",
+    "description": "Espresso with a small amount of steamed milk or foam.",
+    "category": "Coffee"
+  },
+  {
+    "id": "80",
+    "name": "Iced Coffee",
+    "img": "/src/assets/coffee/Iced Coffee.jpeg",
+    "price": "90",
+    "description": "Chilled coffee served over ice, perfect for hot days.",
+    "category": "Coffee"
+  },
+  {
+    "id": "81",
+    "name": "Affogato",
+    "img": "/src/assets/coffee/Affogato.jpg",
+    "price": "140",
+    "description": "A scoop of vanilla ice cream topped with a shot of hot espresso.",
+    "category": "Coffee"
+  },
+  {
+    "id": "82",
+    "name": "Cold Brew",
+    "img": "/src/assets/coffee/Cold Brew.webp",
+    "price": "110",
+    "description": "Smooth and refreshing coffee brewed with cold water over time.",
+    "category": "Coffee"
+  },
+  {
+    "id": "83",
+    "name": "Veg Roll",
+    "img": "/src/assets/rolls/Veg Roll.jpg",
+    "price": "60",
+    "description": "Spicy mixed vegetables wrapped in a paratha.",
+    "category": "Rolls"
+  },
+  {
+    "id": "84",
+    "name": "Paneer Roll",
+    "img": "/src/assets/rolls/Paneer Roll.jpg",
+    "price": "70",
+    "description": "Grilled paneer and veggies wrapped in a paratha.",
+    "category": "Rolls"
+  },
+  {
+    "id": "85",
+    "name": "Mushroom Roll",
+    "img": "/src/assets/rolls/Mushroom Roll.webp",
+    "price": "75",
+    "description": "Spicy mushroom and vegetables wrapped in a paratha.",
+    "category": "Rolls"
+  },
+  {
+    "id": "86",
+    "name": "Spicy Veg Roll",
+    "img": "/src/assets/rolls/Spicy Veg Roll.webp",
+    "price": "65",
+    "description": "Spicy mixed vegetables with a tangy sauce wrapped in a paratha.",
+    "category": "Rolls"
+  },
+  {
+    "id": "87",
+    "name": "Cheese Veg Roll",
+    "img": "/src/assets/rolls/Cheese Veg Roll.jpg",
+    "price": "80",
+    "description": "Mixed vegetables and cheese wrapped in a paratha.",
+    "category": "Rolls"
+  },
+  {
+    "id": "88",
+    "name": "Paneer Tikka Roll",
+    "img": "/src/assets/rolls/Paneer Tikka Roll.jpg",
+    "price": "90",
+    "description": "Grilled paneer tikka wrapped in a paratha with mint chutney.",
+    "category": "Rolls"
+  }
+]

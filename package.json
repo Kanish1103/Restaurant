@@ -1,5 +1,6 @@
 {
   "name": "foodies-hub",
+  "homepage": "https://Kanish1103.github.io/Foodies-Hub/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,6 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview --port 8080"
   },
   "dependencies": {

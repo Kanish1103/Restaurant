@@ -1,0 +1,47 @@
+
+[
+  {
+    "menu_name": "Biriyani",
+    "menu_image": "/src/assets/biriyani-menu.png"
+  },
+  {
+    "menu_name": "Pasta",
+    "menu_image": "/src/assets/pasta_menu.png"
+  },
+  {
+    "menu_name": "Ice Creams",
+    "menu_image": "/src/assets/deserts_menu.png"
+  },
+  {
+    "menu_name": "Noodles",
+    "menu_image": "/src/assets/noodles_menu.png"
+  },
+  {
+    "menu_name": "Pure Veg",
+    "menu_image": "/src/assets/pure_veg_menu.png"
+  },
+  {
+    "menu_name": "Rolls",
+    "menu_image": "/src/assets/rolls_menu.png"
+  },
+  {
+    "menu_name": "Sandwich",
+    "menu_image": "/src/assets/sandwich_menu.png"
+  },
+  {
+    "menu_name": "Burger",
+    "menu_image": "/src/assets/burger_menu.png"
+  },
+  {
+    "menu_name": "Shake",
+    "menu_image": "/src/assets/shake_menu.png"
+  },
+  {
+    "menu_name": "Pizza",
+    "menu_image": "/src/assets/pizza_menu.png"
+  },
+  {
+    "menu_name": "Coffee",
+    "menu_image": "/src/assets/coffee_menu.png"
+  }
+]

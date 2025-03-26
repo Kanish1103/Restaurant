@@ -1,16 +1,23 @@
-import React, { useState, useEffect } from 'react'
-import './ExploreMenu.css'
+import React, { useState, useEffect } from 'react';
+import './ExploreMenu.css';
+import FoodDisplay from '../FoodDisplay/FoodDisplay';
 
 const ExploreMenu = ({ category, setCategory }) => {
-
     const [menu, setMenu] = useState([]);
+    const [selectedCategory, setSelectedCategory] = useState(null);
 
     useEffect(() => {
         fetch('/MenuList.json')
             .then(response => response.json())
             .then(data => setMenu(data))
-            .catch(error => console.error('Error fetching menu:', error))
+            .catch(error => console.error('Error fetching menu:', error));
     }, []);
+
+    const handleMenuClick = (menuName) => {
+        const newCategory = category === menuName ? "All" : menuName;
+        setCategory(newCategory);
+        setSelectedCategory(newCategory === "All" ? null : menuName);
+    };
 
     return (
         <div className='explore-menu' id='explore-menu'>
@@ -19,26 +26,24 @@ const ExploreMenu = ({ category, setCategory }) => {
                 Explore our diverse range of categories designed to inspire and inform. From the latest trends to timeless classics, there's something for everyone. Uncover exclusive deals and hidden gems tailored just for you!
             </p>
             <div className='explore-menu-list'>
-                {menu.map((item, index) => {
-                    return (
-                        <div
-                            onClick={() => setCategory(prev => prev === item.menu_name
-                                ? "All" : item.menu_name)}
-                            key={index}
-                            className='explore-menu-list-item'>
-                            <img
-                                className={category === item.menu_name ? "active" : ""}
-                                src={item.menu_image}
-                                alt={item.menu_name}
-                            />
-                            <p>{item.menu_name}</p>
-                        </div>
-                    )
-                })}
+                {menu.map((item, index) => (
+                    <div
+                        onClick={() => handleMenuClick(item.menu_name)}
+                        key={index}
+                        className='explore-menu-list-item'>
+                        <img
+                            className={category === item.menu_name ? "active" : ""}
+                            src={item.menu_image}
+                            alt={item.menu_name}
+                        />
+                        <p>{item.menu_name}</p>
+                    </div>
+                ))}
             </div>
             <hr />
+            {selectedCategory && <FoodDisplay category={selectedCategory} />}
         </div>
-    )
-}
+    );
+};
 
-export default ExploreMenu
+export default ExploreMenu;

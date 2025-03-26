@@ -6,6 +6,9 @@ import Cart from './pages/Cart/Cart'
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder'
 import Footer from './components/Footer/Footer'
 import Login from './components/LoginPage/Login'
+// import ExploreMenu from './components/ExploreMenu/ExploreMenu'
+// import FoodDisplay from './components/FoodDisplay/FoodDisplay'
+import Menu from './pages/Menu/Menu'
 
 const App = () => {
 
@@ -19,6 +22,7 @@ const App = () => {
         <Navbar setShowLogin={setShowLogin} />
         <Routes>
           <Route path='/' element={<Home />} />
+          <Route path='/menu' element={<Menu />} />
           <Route path='/cart' element={<Cart />} />
           <Route path='/order' element={<PlaceOrder />} />
         </Routes>

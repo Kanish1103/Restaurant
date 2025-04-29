@@ -6,10 +6,25 @@ const StoreContextProvider = (props) => {
     const [exploreMenu, setExploreMenu] = useState([]);
 
     useEffect(() => {
+        // fetch('/FoodList.json')
+        //     .then(response => response.json())
+        //     .then(data => setExploreMenu(data))
+        //     .catch(error => console.error('Error fetching menu:', error))
+
         fetch('/FoodList.json')
-            .then(response => response.json())
-            .then(data => setExploreMenu(data))
-            .catch(error => console.error('Error fetching menu:', error))
+        .then(res => {
+            const contentType = res.headers.get("content-type");
+            if (!contentType || !contentType.includes("application/json")) {
+            throw new Error("Invalid JSON response");
+            }
+            return res.json();
+        })
+        .then(data => {
+            setExploreMenu(data);
+        })
+        .catch(err => {
+            console.error("Error fetching menu:", err);
+        });
     }, []);
 
 
